@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "cosweal12345",
+    "database": "node_test",
+    "host": "devdb",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "cosweal12345",
+    "database": "node_test",
+    "host": "devdb",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "cosweal12345",
+    "database": "node_test",
+    "host": "devdb",
+    "dialect": "mysql"
+  }
+}

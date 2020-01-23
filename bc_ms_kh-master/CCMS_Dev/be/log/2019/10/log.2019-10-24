@@ -1,0 +1,29 @@
+2019-10-24 09:47:04 [METHOD] - "/board"에 get실행
+2019-10-24 09:47:04 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 09:47:30 [METHOD] - "/board"에 get실행
+2019-10-24 09:47:30 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 10:20:10 [METHOD] - "/board"에 get실행
+2019-10-24 10:21:35 [METHOD] - "/board"에 get실행
+2019-10-24 10:21:43 [METHOD] - "/board"에 get실행
+2019-10-24 10:23:00 [METHOD] - "/board"에 get실행
+2019-10-24 10:24:19 [METHOD] - "/board"에 get실행
+2019-10-24 10:26:28 [METHOD] - "/board"에 get실행
+2019-10-24 10:27:33 [METHOD] - "/board"에 get실행
+2019-10-24 10:27:40 [METHOD] - "/board"에 get실행
+2019-10-24 10:28:28 [METHOD] - "/board"에 get실행
+2019-10-24 10:29:40 [METHOD] - "/board"에 get실행
+2019-10-24 10:50:55 [METHOD] - "/board"에 get실행
+2019-10-24 10:52:32 [METHOD] - "/board"에 get실행
+2019-10-24 11:23:08 [METHOD] - "/board"에 get실행
+2019-10-24 11:23:25 [METHOD] - "/board"에 get실행
+2019-10-24 11:35:38 [METHOD] - "/board"에 get실행
+2019-10-24 14:32:12 [METHOD] - "/board"에 get실행
+2019-10-24 14:32:54 [METHOD] - "/board"에 get실행
+2019-10-24 14:37:17 [METHOD] - "/board"에 get실행
+2019-10-24 14:37:21 [METHOD] - "/board"에 get실행
+2019-10-24 14:38:11 [METHOD] - "/board"에 get실행
+2019-10-24 15:35:08 [METHOD] - "/board"에 get실행
+2019-10-24 15:44:07 [METHOD] - "/board"에 get실행
+2019-10-24 15:56:34 [METHOD] - "/board"에 get실행
+2019-10-24 17:52:47 [METHOD] - "/board"에 get실행
+2019-10-24 18:03:08 [METHOD] - "/board"에 get실행
