@@ -19,7 +19,7 @@
     "express-session": "^1.17.0",
     "http-errors": "~1.6.3",
     "jsonwebtoken": "^8.5.1",
-    "log4js": "^5.2.2",
+    "log4js": "^6.4.0",
     "log4js-json": "^0.2.0",
     "mkdirp": "^0.5.1",
     "morgan": "~1.9.1",
